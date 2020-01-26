@@ -1,4 +1,4 @@
-#HibernateExample
+# HibernateExample
 
 First and foremost install mariadb on your machine. On my case as an Arch user:
 
