@@ -73,7 +73,7 @@ We can now login with this new user which have all privileges on that bd.
 
 Let's create the tables we need now.
 
-```bash
+```sql
 
 	use hibernate
 
